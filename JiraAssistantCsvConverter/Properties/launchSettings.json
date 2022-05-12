@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JiraAssistantCsvConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Denni\\Downloads\\CSV\\WorkingHours.csv"
+    }
+  }
+}
